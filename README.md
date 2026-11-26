@@ -9,7 +9,7 @@ React + Vite frontend for the Clinic management system. It lets users log in and
 - React 19 + Vite
 - React Router
 - Axios (HTTP requests to the backend)
-- Tailwind CSS
+- Vanilla CSS + Tailwind CSS
 
 ## Pages
 
