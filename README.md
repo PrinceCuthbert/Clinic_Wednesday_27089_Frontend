@@ -44,6 +44,15 @@ npm run dev
 ```
 
 3. Open the URL shown in the terminal (usually `http://localhost:5173`).
+4. Log in with the demo credentials below.
+
+## Login Credentials
+
+| Username | Password |
+|----------|----------|
+| `admin`  | `admin`  |
+
+> These are demo credentials checked on the frontend only, for testing purposes.
 
 ## API Endpoints Used
 
